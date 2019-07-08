@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d315cbe8-2fa0-4143-9e0e-f93a57514423" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/gtb/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/gtb/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gtb/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/gtb/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gtb/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="32" column="64" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
+            <state relative-caret-position="308">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
               <folding>
                 <element signature="e#627#655#0" expanded="true" />
               </folding>
@@ -40,14 +40,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cache/56/aa/56aa4839144f5a8788caa39e8339ab13.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cache/09/65/09659620e6dcb5291368eb9247d6f0a4.jpg">
-          <provider selected="true" editor-type-id="images" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cache/readme.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="42" selection-start-column="42" selection-end-column="42" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -66,16 +65,7 @@
       <list>
         <option value="$PROJECT_DIR$/gtb/settings.py" />
         <option value="$PROJECT_DIR$/gtb/urls.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/django-oscar.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/cache/readme.txt" />
       </list>
     </option>
   </component>
@@ -100,6 +90,11 @@
             <path>
               <item name="django-oscar" type="b2602c69:ProjectViewProjectNode" />
               <item name="django-oscar" type="462c0819:PsiDirectoryNode" />
+              <item name="cache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django-oscar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django-oscar" type="462c0819:PsiDirectoryNode" />
               <item name="gtb" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -110,6 +105,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -168,17 +164,26 @@
       <workItem from="1562552272582" duration="2672000" />
       <workItem from="1562559977594" duration="4307000" />
       <workItem from="1562573039856" duration="959000" />
-      <workItem from="1562603486052" duration="907000" />
+      <workItem from="1562603486052" duration="1641000" />
     </task>
+    <task id="LOCAL-00001" summary="remove cache files">
+      <created>1562605066498</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562605066498</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11224000" />
+    <option name="totallyTimeSpent" value="11958000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="710" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18106061" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18106061" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -192,7 +197,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.21170396" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.22547331" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -203,6 +208,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="remove cache files" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove cache files" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cache/56/aa/56aa4839144f5a8788caa39e8339ab13.jpg">
@@ -223,11 +232,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gtb/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="32" column="64" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
+        <state relative-caret-position="308">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="e#627#655#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cache/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" selection-start-column="42" selection-end-column="42" />
         </state>
       </provider>
     </entry>
